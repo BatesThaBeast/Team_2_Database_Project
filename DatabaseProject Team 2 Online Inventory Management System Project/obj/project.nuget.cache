@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lj+B/IZQsmGXV8NRD5HjyOJYmc9CBXS+On7BK1cpcGAC8bzZcBdQ7M163wTlNislwmw70x+SbdFfXlnDxf+Ulg==",
+  "success": true,
+  "projectFilePath": "c:\\Team_2_Online_Inventory_Management_Project\\DatabaseProject Team 2 Online Inventory Management System Project\\DatabaseProject Team 2 Online Inventory Management System Project.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\John Bates\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\John Bates\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+c:\Team_2_Online_Inventory_Management_Project\DatabaseProject Team 2 Online Inventory Management System Project\bin\Debug\DatabaseProject Team 2 Online Inventory Management System Project.dacpac
+c:\Team_2_Online_Inventory_Management_Project\DatabaseProject Team 2 Online Inventory Management System Project\bin\Debug\DatabaseProject Team 2 Online Inventory Management System Project.dll
+c:\Team_2_Online_Inventory_Management_Project\DatabaseProject Team 2 Online Inventory Management System Project\bin\Debug\DatabaseProject Team 2 Online Inventory Management System Project.pdb
+c:\Team_2_Online_Inventory_Management_Project\DatabaseProject Team 2 Online Inventory Management System Project\obj\Debug\DatabaseProject Team 2 Online Inventory Management System Project.sqlproj.AssemblyReference.cache
+c:\Team_2_Online_Inventory_Management_Project\DatabaseProject Team 2 Online Inventory Management System Project\obj\Debug\Model.xml
+c:\Team_2_Online_Inventory_Management_Project\DatabaseProject Team 2 Online Inventory Management System Project\obj\Debug\refactor.xml
+c:\Team_2_Online_Inventory_Management_Project\DatabaseProject Team 2 Online Inventory Management System Project\obj\Debug\postdeploy.sql
+c:\Team_2_Online_Inventory_Management_Project\DatabaseProject Team 2 Online Inventory Management System Project\obj\Debug\predeploy.sql
+c:\Team_2_Online_Inventory_Management_Project\DatabaseProject Team 2 Online Inventory Management System Project\obj\Debug\DatabaseProject Team 2 Online Inventory Management System Project.dll
+c:\Team_2_Online_Inventory_Management_Project\DatabaseProject Team 2 Online Inventory Management System Project\obj\Debug\DatabaseProject Team 2 Online Inventory Management System Project.pdb

@@ -1,0 +1,47 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Team_2_Online_Inventory_Management_Project\\DatabaseProject Team 2 Online Inventory Management System Project\\DatabaseProject Team 2 Online Inventory Management System Project.sqlproj": {}
+  },
+  "projects": {
+    "c:\\Team_2_Online_Inventory_Management_Project\\DatabaseProject Team 2 Online Inventory Management System Project\\DatabaseProject Team 2 Online Inventory Management System Project.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Team_2_Online_Inventory_Management_Project\\DatabaseProject Team 2 Online Inventory Management System Project\\DatabaseProject Team 2 Online Inventory Management System Project.sqlproj",
+        "projectName": "DatabaseProject Team 2 Online Inventory Management System Project",
+        "projectPath": "c:\\Team_2_Online_Inventory_Management_Project\\DatabaseProject Team 2 Online Inventory Management System Project\\DatabaseProject Team 2 Online Inventory Management System Project.sqlproj",
+        "packagesPath": "C:\\Users\\John Bates\\.nuget\\packages\\",
+        "outputPath": "c:\\Team_2_Online_Inventory_Management_Project\\DatabaseProject Team 2 Online Inventory Management System Project\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\John Bates\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
